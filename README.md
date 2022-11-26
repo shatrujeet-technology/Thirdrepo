@@ -1,3 +1,3 @@
 # Learning Devops
 
-This is my ssample readme file.
+This is my sample readme file.
